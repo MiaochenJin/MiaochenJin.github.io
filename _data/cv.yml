@@ -51,7 +51,7 @@
       description:
 
     - title: Research Intern
-      institution: Department of Mathematics and Computer Science, Argonne National Laboratory, IL
+      institution: Department of Mathematics and Computer Science, Argonne National Laboratory, Lemont, IL
       year: 2018
 
 - title: Community Involvement and Outreach
@@ -122,5 +122,35 @@
       year: 2022
       description:
         - Presented poster on the idea and performance of an original implementation of Deep Hierarchical Neural Network compatible to tensor processing units for the purpose of accelerating IceCube event reconstruction
+
+    - title: APS April Meeting 2021
+      institution: New York, NY
+      year: 2022
+      description:
+        - Gave a talk on preliminary results on a combined fit of neutrino oscillation parameters with IceCube and SuperK
+
+    - title: AstroDark 2021
+      institution: Virtual
+      year: 2021
+      description:
+        - Presented poster on an analytic approximation method to long baseline neutrino oscillation probability in a model for light sterile neutrinos 
+
+    - title: IBM Summer Symposium 2021
+      institution: San Jose, CA
+      year: 2019
+      description:
+        - Gave talk on the results of training a genetic algorithm "Deep Neuro-Evolution" on IBM's first FPGA-powered neural computer
+
+    - title: Chicago Area Undergraduate Research Symposium
+      institution: Chicago, IL
+      year: 2019
+      description:
+        - Presented poster on the effect of solvent on mechanical properties of ligand coated Au nanoparticles
+
+    - title: Summer Argonne Student Symposium
+      institution: Lemont, IL
+      year: 2018
+      description:
+        - Gave talk on benchmarking hyperparameter optimization algorithm on neural networks
 
 

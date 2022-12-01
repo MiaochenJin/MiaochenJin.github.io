@@ -23,6 +23,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a second year doctorate student in physics at Harvard University. My work spans a heterogeneous subset of neutrino physics, from neutrino oscillations and BSM phenomenology to machine learning and hardware experiments. I work with Professor Carlos A. Argüelles-Delgado, and am a member of the IceCube Collaboration. I recently finished two neutrino oscillation-related analysis, and am now focusing on both graph neural networks and some optical module-related hardware experiments.
 
-I engage in fun and fruitful conversations with many other young Chinese physicists in the larger Boston Area, through a seminar that my friends and I started, I encourage you to check it out [here](phymafia.github.io).
+I engage in fun and fruitful conversations with many other young Chinese physicists in the larger Boston Area, through a seminar that my friends and I started, I encourage you to check it out [here](https://phymafia.github.io).
 
 In my free time I enjoy camping, hiking, and rock climbing. I am also a huge fan of anime, ACG arts and specifically Genshin Imapct. I have two very adorable cats, whose photos might randomly appear on my website in the short future, so make sure to check back here!
