@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 心有所向，日复一日，必有精进
 
 profile:
   align: right
@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a second year doctorate student in physics at Harvard University. My work spans a heterogeneous subset of neutrino physics, from neutrino oscillations and BSM phenomenology to machine learning and hardware experiments. I work with Professor Carlos A. Argüelles-Delgado, and am a member of the IceCube Collaboration. I engage in fun and fruitful conversations with many other young Chinese physicists in the larger Boston Area, through a seminar that my friends and I started, I encourage you to check it out [here](phymafia.github.io)
+I am currently a second year doctorate student in physics at Harvard University. My work spans a heterogeneous subset of neutrino physics, from neutrino oscillations and BSM phenomenology to machine learning and hardware experiments. I work with Professor Carlos A. Argüelles-Delgado, and am a member of the IceCube Collaboration. 
+
+I engage in fun and fruitful conversations with many other young Chinese physicists in the larger Boston Area, through a seminar that my friends and I started, I encourage you to check it out [here](phymafia.github.io).
