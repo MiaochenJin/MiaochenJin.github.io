@@ -4,9 +4,9 @@
     - name: Full Name
       value: Miaochen Jin
     - name: Date of Birth
-      value: 10th Septem
+      value: 10th September, 2000
     - name: Languages
-      value: English, German
+      value: Mandarin, English, Spanish, Japanese
 
 - title: Education
   type: time_table
@@ -62,6 +62,7 @@
         - Founder of the Boston Area Chinese Young Physicists Seminar
         - Founded and running a weekly seminar for Chinese young physicists in the greater Boston area}}, including researchers and students from Harvard, MIT, Brandeis, Tufts, Boston University, Boston College and Norteastern University. Host regular seminars by the students as well as invited lectures by renowned professors. Our goal is to provide a supportive and collaborative environment for young Chinese physicists in the greater Boston area.
     - title: Boston/Cambridge Boarding High School Students Spring Camp
+      items:
         - Mentor at Boston/Cambridge Boarding High School Students Spring Camp
         - Mentored boarding high school students on a spring break camp, this includes teaching high school level classes, AP curriculum, as well as introducing my own research on an appropriate level for aspiring young scientists.
 
