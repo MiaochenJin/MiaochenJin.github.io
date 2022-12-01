@@ -9,9 +9,11 @@ profile:
   image: Personal_Photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Palfrey House</p>
+    <p>Palfrey House (Laboratory of Particle Physics and Cosmology)</p>
+    <p>Harvard University</p>
     <p>18 Hammond St.</p>
     <p>Cambridge, MA 02138</p>
+    <p>miaochenjin at g dot harvard dot edu</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

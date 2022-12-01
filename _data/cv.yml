@@ -24,70 +24,102 @@
         - Bachelor of Science in Mathematics
         - Minor in Computer Science
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Harvard University, Cambridge, MA
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research assistant working with Carlos Argüelles at the Laboratory of Particle Physics and Cosmology. Research included IceCube analysis, neutrino oscillations, BSM phenomenology and machine learning for neutrino physics.
+
+    - title: Research Assistant
+      institution: University of Chicago, Chicago, IL
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Research assistant working with Professor Carlos Wagner on reconciling cosmological and experimental bounds on sterile neutrino mass as well as developing analytical approximation methods of MSW effect in 3+1 model.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Assistant
+      institution: James Frank Institute, University of Chicago, Chicago, IL
+      year: 2017-2020
+      description:
+        - Research assistant working with Professor Stuart Rice and Doctor Binhua Lin on simulating mechanical properties of ligand-coated gold nanoparticles in solvent.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Intern
+      institution: IBM Research, San Jose, CA
+      year: 2019
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Intern
+      institution: Department of Mathematics and Computer Science, Argonne National Laboratory, IL
+      year: 2018
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Community Involvement and Outreach
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Boston Area Chinese Young Physicists Seminar
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Founder of the Boston Area Chinese Young Physicists Seminar
+        - Founded and running a weekly seminar for Chinese young physicists in the greater Boston area}}, including researchers and students from Harvard, MIT, Brandeis, Tufts, Boston University, Boston College and Norteastern University. Host regular seminars by the students as well as invited lectures by renowned professors. Our goal is to provide a supportive and collaborative environment for young Chinese physicists in the greater Boston area.
+    - title: Boston/Cambridge Boarding High School Students Spring Camp
+        - Mentor at Boston/Cambridge Boarding High School Students Spring Camp
+        - Mentored boarding high school students on a spring break camp, this includes teaching high school level classes, AP curriculum, as well as introducing my own research on an appropriate level for aspiring young scientists.
 
-- title: Other Interests
-  type: list
+
+- title: Mentoring Experience
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Mentor of Tong Zhu
+      institution: Harvard University, Cambridge, MA
+      year: 2022 - present
+      description:
+        - Mentor of Tong Zhu, an undergraduate from the University of Science and Technology of China, and a visiting intern associated with the Arg\"{u}elles-Delgado group. Our project looks at the optimization of IceCube Gen-2 geometry using graph neural networks.
+
+    - title: Polaris Mentor of Nika Imamberdieva
+      institution: Harvard University, Cambridge, MA
+      year: 2022 - present
+      description:
+        - Polaris Program mentor of Nika Imamberdieva, a first year undergraduate of Harvard College. The Polaris Program matches graduate students with undergraduate students to provide general help and advice on physics career, course work, and any other related question the undergraduate students might have.
+
+    - title: Co-mentor of Savanna Coffel
+      institution: Harvard University, Cambridge, MA
+      year: 2022 - present
+      description:
+        - Co-Mentor of (with Dr. Ibrahim Safa) Savanna Coffel, a first-year undergraduate associated with the Arg\"{u}elles-Delgado group.Our project looks at the identification and categorization of double-bang events caused by high energy tau neutrinos in IceCube using machine learning methods
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Fellow
+      institution: Department of Physics, Harvard University, Cambridge, MA
+      year: 2022
+      description:
+        - Served as teaching fellow to the renowned undergraduate course Mechanics and Special Relativity, very challenging introductory course available to Harvard undergraduates. Includes teaching sections, drafting problem sets and exams, and hosting office hours.
+
+    - title: Course Assistant
+      institution: Department of Mathematics, University of Chicago, Chicago, IL
+      year: 2018 - 2020
+      description:
+        - Served as course assistant to first-year and second-year level math courses including Calculus, Introduction to Proofs in Analysis and Mathematical Methods for Physical Sciences. Hosted office hours and graded student homework
+
+    - title: Course Grader
+      institution: Department of Computer Science, University of Chicago, Chicago, IL
+      year: 2020
+      description:
+        - Served as a grader to an upper-level computer science course Discrete Mathematics.
+
+- title: Conferences, Workshops and Schools
+  type: time_table
+  contents:
+    - title: IAIFI Summer School and Workshop
+      institution: Cambridge, MA
+      year: 2022
+      description:
+
+    - title: Neutrino 2022
+      institution: Seoul, Korea (Virtual)
+      year: 2022
+      description:
+        - Presented poster on the idea and performance of an original implementation of Deep Hierarchical Neural Network compatible to tensor processing units for the purpose of accelerating IceCube event reconstruction
+
+
