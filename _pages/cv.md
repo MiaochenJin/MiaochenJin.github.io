@@ -1,10 +1,8 @@
 ---
-layout: new_cv
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-# cv_pdf: CV.pdf
+cv_pdf: CV.pdf
 ---
-
-{% include new_cv.html %}
