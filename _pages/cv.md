@@ -1,7 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV (Download pdf file for latest version)
+title: CV
+subtitle: (Download PDF for lastest version)
 nav: true
 nav_order: 4
 cv_pdf: CV.pdf
