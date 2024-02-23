@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Palfrey House</p> 
-    <p>Laboratory of Particle Physics and Cosmology</p>
+    <p>Laboratory for Particle Physics and Cosmology</p>
     <p>Harvard University</p>
     <p>18 Hammond St.</p>
     <p>Cambridge, MA 02138</p>
