@@ -13,5 +13,3 @@ venue: 'J. Cosmol. Astropart. Phys.'
 paperurl: 'http://miaochenjin.github.io/files/two-watts.pdf'
 bibtexurl: 'http://miaochenjin.github.io/files/two-watts.bib'
 ---
-
-M. Jin, Y. Hu, C.A. Argüelles
