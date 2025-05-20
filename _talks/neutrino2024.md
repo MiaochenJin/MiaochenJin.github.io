@@ -4,8 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/neutrino2024
 venue: "Neutrino 2024"
-date: 2024-08
-date_format: "ym"
+date: 2024-08-29
 location: "Milan, Italy"
 ---
 

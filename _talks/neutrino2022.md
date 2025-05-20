@@ -4,8 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/neutrino2022
 venue: "Neutrino 2022"
-date: 2022-08
-date_format: "ym"
+date: 2022-06-02
 location: "Seoul (remote), Korea"
 ---
 

@@ -4,8 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/iaifijc
 venue: "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions Journal Club"
-date: 2025-10
-date_format: "ym"
+date: 2025-10-17
 location: "Cambridge, MA, USA"
 ---
 
