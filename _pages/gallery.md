@@ -23,10 +23,9 @@ author_profile: true
 
 They are sisters from the same litter!
 
-<!-- <div class="gallery-grid">
-  <img src="{{ base_path }}images/photo1.jpg" alt="Photo 1">
-  <img src="{{ base_path }}images/photo2.jpg" alt="Photo 2">
-  <img src="{{ base_path }}images/photo3.jpg" alt="Photo 3">
-  <img src="{{ base_path }}images/photo4.jpg" alt="Photo 4">
-  <!-- add as many as you like… -->
-</div> -->
+<div class="gallery-grid">
+  <img src="{{ base_path }}/images/gallery/Mio.jpeg" alt="This is Mio">
+  <img src="{{ base_path }}/images/gallery/Nomi.jpeg" alt="This is Nomi">
+  <img src="{{ base_path }}/images/gallery/Both1.jpeg" alt="">
+  <img src="{{ base_path }}/images/gallery/Both2.jpeg" alt="">
+</div>
