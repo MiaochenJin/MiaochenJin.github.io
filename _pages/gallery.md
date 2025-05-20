@@ -3,7 +3,7 @@ permalink: /gallery/
 title: "Gallery"
 author_profile: true
 ---
-
+{% include base_path %}
 <style>
   /* simple CSS grid for your images */
   .gallery-grid {
@@ -18,6 +18,10 @@ author_profile: true
     display: block;
   }
 </style>
+
+## Mio and Nomi
+
+They are sisters from the same litter!
 
 <!-- <div class="gallery-grid">
   <img src="{{ base_path }}images/photo1.jpg" alt="Photo 1">
