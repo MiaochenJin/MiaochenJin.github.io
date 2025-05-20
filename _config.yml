@@ -79,12 +79,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  proceedings:
-    title: 'Proceedings'
   manuscripts:
     title: 'Journal Articles'
   preprints:
     title: 'Pre-Prints'    
+  proceedings:
+    title: 'Proceedings'
   # conferences:
   #   title: 'Conference Papers'
 
