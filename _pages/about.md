@@ -22,4 +22,4 @@ I have also had the chance to mentor or co-mentor interns in the group, includin
 
 ## What else
 
-I have two adorable cats. I will be posting pictures of them frequetnly in the Random page.
+I have two adorable cats. I will be posting pictures of them frequently in the Gallery page.
