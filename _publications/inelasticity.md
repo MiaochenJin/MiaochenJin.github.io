@@ -7,7 +7,7 @@ excerpt: 'S.G. Olavarrieta, M. Jin, C.A. Argüelles, P. Fernández, I. Martínex
 date: 2024-02-20
 venue: 'Phys. Rev. D Letters'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/inelasticity.pdf'
-bibtexurl: 'http://academicpages.github.io/files/inelasticity.bib'
+paperurl: 'http://miaochenjin.github.io/files/inelasticity.pdf'
+bibtexurl: 'http://miaochenjin.github.io/files/inelasticity.bib'
 ---
 S.G. Olavarrieta, M. Jin, C.A. Argüelles, P. Fernández, I. Martínex-Soler

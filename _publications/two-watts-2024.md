@@ -3,7 +3,10 @@ title: "Two Watts is All You Need: Enabling In-Detector Real-Time Machine Learni
 collection: publications
 category: manuscripts
 permalink: /publication/two-watts-2024
-excerpt: 'M. Jin, Y. Hu, C.A. Argüelles'
+authors:
+    - M. Jin
+    - Y. Hu 
+    - C.A. Argüelles
 date: 2023-11-08
 venue: 'J. Cosmol. Astropart. Phys.'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
