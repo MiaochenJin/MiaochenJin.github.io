@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 For the most updated full version of my CV please download at:
-<p><a href="{{ base_path }}files/CV.pdf" target="_blank" rel="noopener">Download my CV (PDF)</a></p>
+<p><a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">Download my CV (PDF)</a></p>
 
 Education
 ======
