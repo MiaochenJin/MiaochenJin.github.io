@@ -19,6 +19,13 @@ Education
 * B.A. in Physics, University of Chicago, 2021
 * Minor in Computer Science, University of Chicago, 2021
 
+Awards and Recognitions
+======
+* Gertrude and Maurice Goldhaber Prize, Harvard University, 2025
+* White Prize, Havard University, 2023
+* Student Recognition of Teaching, Harvard University, 2023
+* Magna Cum Laude, The University of Chicago, 2021
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
