@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Two Watts Is All You Need"
 collection: talks
 type: "Talk"
 permalink: /talks/tevpa2024

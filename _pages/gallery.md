@@ -12,14 +12,8 @@ author_profile: true
     grid-gap: 1rem;
     margin: 2rem 0;
   }
-  .gallery-grid figure {
-    margin: 0;
-    /* give every figure the same height */
-    height: 200px;
-    overflow: hidden;
-  }
   .gallery-grid img {
-    width: 100%;
+    width: auto;
     height: 100%;
     display: block;
   }
@@ -36,18 +30,8 @@ author_profile: true
 They are sisters from the same litter!
 
 <div class="gallery-grid">
-    <figure>
-        <img src="{{ base_path }}/images/gallery/Mio.jpeg" alt="This is Mio">
-        <figcaption>This is Mio</figcaption>
-    </figure>
-    <figure>
-        <img src="{{ base_path }}/images/gallery/Nomi.jpeg" alt="This is Nomi">
-        <figcaption>This is Nomi</figcaption>
-    </figure>
-    <figure>
-        <img src="{{ base_path }}/images/gallery/Both1.jpeg" alt="">
-    </figure>
-    <figure>
-        <img src="{{ base_path }}/images/gallery/Both2.jpeg" alt="">
-    </figure>
+    <img src="{{ base_path }}/images/gallery/Mio.jpeg" alt="This is Mio">
+    <img src="{{ base_path }}/images/gallery/Nomi.jpeg" alt="This is Nomi">
+    <img src="{{ base_path }}/images/gallery/Both1.jpeg" alt="">
+    <img src="{{ base_path }}/images/gallery/Both2.jpeg" alt="">
 </div>
